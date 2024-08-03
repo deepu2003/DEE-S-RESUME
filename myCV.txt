@@ -16,11 +16,11 @@ INNOVATION AND ENTREPRENEURSHIP,JV GLOBAL SERVICES PVT.LTD 10/2023-11/2023
 e Web application development
 « HTML
 « CSS
-° JS
+« JS
 FULL-STACK DEVELOPMENT,JV GLOBAL SERVICES 10/2022-11/2022
-¢ Innovation and entrepreneurship
+« Innovation and entrepreneurship
 « Business planning
-e Forecasting
+« Forecasting
 
 EDUCATION
 
@@ -30,31 +30,33 @@ Bachelor's Degree in Computer Science Engineering
 
 M.KRISHNA PU COLLEGE,NDRK JULY 2021
 PCMB
-° 79.166%
+« 79.166%
 
 SRI CKS GIRLS HIGH SCHOOL,NDRK APRIL 2019
 SSLC
-* 83.52%
+« 83.52%
 
 ADDITIONAL INFORMATION
 
-¢ Technical Skills: Project Management, UI/UX Design, Full Stack Development, OnShape tool,
+« Technical Skills: Project Management, UI/UX Design, Full Stack Development, OnShape tool,
 Figma, Canva, my sql ,Android studios java ,python ,c , Jira tool
 « Languages: English, Telugu, Hindi, Kannada
-¢ Certifications: Professional Engineer (PE) License, Project Management Professional (PMP)
+« Certifications: Professional Engineer (PE) License, Project Management Professional (PMP)
+
 PROJECT DETAILS
-e« TASK BAR
+
+« TASK BAR
 « MUSIC PAGE
 « CARBON FOOTPRINT CALCULATOR
 « HOTEL MANAGEMENT
-*« CHAT-BOT
+« CHAT-BOT
 « SIMPLE APPS USING ANDROID STUDIOS
 
 CONTACT DETAILS
 
 « Phone Number: +91 6363147070
 
-e Email id : hsn.deepthi2Z003@gmail.com , dj961026@gmail.com
-¢ Git hub: https://github.com/deepu2003
+« Email id : hsn.deepthi2Z003@gmail.com , dj961026@gmail.com
+« Git hub: https://github.com/deepu2003
 
-¢ Linked-in :linkedin.com/in/j-deepthi-a373a9229
+« Linked-in :linkedin.com/in/j-deepthi-a373a9229
